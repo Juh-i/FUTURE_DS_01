@@ -20,8 +20,19 @@ The objective is to identify:
 
 ---
 
-## Dataset
-Sample Superstore Dataset
+## Files Included
+
+### Dataset
+[Download Dataset](Sample-Superstore.csv)
+
+### SQL Queries
+[View SQL Queries](SQLQuery1.sql)
+
+### Dashboard
+[View Dashboard](EXCEL_VISUALIZE.pdf)
+
+### Final Report
+[View Analysis Report](Superstore_Sales_Analysis_Report.pdf)
 
 ---
 
