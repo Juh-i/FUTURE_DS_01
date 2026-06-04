@@ -23,7 +23,7 @@ The objective is to identify:
 ## Files Included
 
 ### Dataset
-[Download Dataset](Sample-Superstore.csv)
+[Download Dataset](Sample%20-%20Superstore.csv)
 
 ### SQL Queries
 [View SQL Queries](SQLQuery1.sql)
